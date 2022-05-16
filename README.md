@@ -1,6 +1,6 @@
 # Surf's Up Climate Analysis
 ## Overview
-The purpose of this analysis was to determine whether temperature trends in Oahu are amenable to opening a surf and ice cream shop. Temperatures in June and December were analyzed to deterine that the business venture is sustainable year-round. This project explored advanced data storage and retrieval techniques using SQLite and SQLAlchemy. A climate application was built using Flask. Other tools used include Python and Jupyter Notebooks.
+The purpose of this analysis was to determine whether temperature trends in Oahu are amenable to opening a surf and ice cream shop. Temperatures in June and December were analyzed to deterine that the business venture is sustainable year-round. This project explored advanced data storage and retrieval techniques using SQLite and SQLAlchemy. A climate application was built using Flask. Other tools used include the matplotlib, numpy, pandas, and datetime libraries in Python and Jupyter Notebooks.
 
 ## Results
 - Data was analyzed from the hawaii.sqllite database which includes information between January 1, 2010 and August 23, 2017. Temperature data was analyzed for the months of June and December for all years within this timeframe.
